@@ -1,0 +1,6 @@
+/key/gc https://raw.gitcode.com/ntkrnl32/assets/raw/main/ntkrnl32_public.asc 301
+/key/gh https://github.com/ntkrnl32/assets/raw/refs/heads/main/ntkrnl32_public.asc 301
+/key /ntkrnl32_public.asc 301
+/key/gh/proxy https://github.com/ntkrnl32/assets/raw/refs/heads/main/ntkrnl32_public.asc 200
+/key/gc/proxy https://raw.gitcode.com/ntkrnl32/assets/raw/main/ntkrnl32_public.asc 200
+/key/proxy /ntkrnl32_public.asc 200
