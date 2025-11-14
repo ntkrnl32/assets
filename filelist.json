@@ -3,6 +3,7 @@
     "friendly_name": "Test ISO File",
     "id": "TESTISO",
     "description": "This is a test ISO file split into multiple parts.",
+    "sha256": "overallsha256hashvalueoftestiso",
     "test.iso.part001":{
         "dl": "https://nicrozoft-product-assets.krnl32.win/test.iso.part001",
         "size": 2048,
